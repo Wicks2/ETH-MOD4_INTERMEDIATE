@@ -1,5 +1,3 @@
-Sure, here's a README file for the provided smart contract code:
-
 # Degen Gaming ERC20 Token
 
 This is a smart contract for an ERC20 token named "Degen" (symbol: DGN), designed for Degen Gaming. The token contract includes functionalities for minting, transferring, redeeming, checking balances, and burning tokens.
